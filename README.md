@@ -7,12 +7,12 @@ A Full Satck Developer from Ghana, currently, I'm a Software student at 🙍🏽
 Here are some ideas to get you started:
 
 -->
-<img align=left alt=stat width=47% src="https://github-readme-stats.vercel.app/api?username=ahmednazirmusah&theme=dracula&show_icons=true">
-<img align=right alt=stat width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednazirmusah&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats"><br><br>
+<img align=center alt=stat width=47% src="https://github-readme-stats.vercel.app/api?username=ahmednazirmusah&theme=dracula&show_icons=true">
+<img align=center alt=stat width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednazirmusah&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats"><br><br>
 
 # Tech & Tools Preference
 
-<p align=left>
+<p align=center>
 <img align=left alt=stat src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" margin=0>
 <img align=left alt=nodejs src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img align=left alt=React src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><br>
