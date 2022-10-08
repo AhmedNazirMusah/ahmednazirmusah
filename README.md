@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 <img align=center alt=stat width=47% src="https://github-readme-stats.vercel.app/api?username=ahmednazirmusah&theme=dracula&show_icons=true">
-<img align=center alt=stat width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednazirmusah&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats"><br><br>
+<img align=center alt=stat width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednazirmusah&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats"><br>
 
 # Tech & Tools Preference
 
