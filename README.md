@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed👋
 
-A Full Satck Developer from Ghana, currently, I'm a Software student at 🙍🏽‍♂️ @Microverse. I enjoy wtaching documentaries in my leisure time.
+A Full Stack Developer from Ghana, currently, I'm a Software student at 🙍🏽‍♂️ @Microverse. I enjoy wtaching documentaries in my leisure time.
 <!--
 **AhmedNazirMusah/ahmednazirmusah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
