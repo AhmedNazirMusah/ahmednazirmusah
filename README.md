@@ -1,10 +1,9 @@
 # Hi there, I'm Ahmed👋
 
-A Full Stack Developer from Ghana, currently, I'm a Software student at 🙍🏽‍♂️ @Microverse. I enjoy watching documentaries in my leisure time.
+A Full Stack Developer from Ghana, I recently completed a Fullstack software development program @Microverse. I enjoy watching documentaries in my leisure time.
 <!--
 **AhmedNazirMusah/ahmednazirmusah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 -->
 <img align=center alt=stat width=47% src="https://github-readme-stats.vercel.app/api?username=ahmednazirmusah&theme=dracula&show_icons=true">
