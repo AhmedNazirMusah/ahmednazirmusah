@@ -6,6 +6,18 @@ A Full Stack Developer from Ghana, I recently completed a Fullstack software dev
 
 
 -->
+## Github Stats
+<!--START_SECTION:waka-->
+<a href="https://github.com/ahmednazirmusah">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednazirmusah&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
+<br />
+<br />
+<a href="https://github.com/ahmednazirmusah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednazirmusah&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
+
+
 <img align=center alt=stat width=47% src="https://github-readme-stats.vercel.app/api?username=ahmednazirmusah&theme=dracula&show_icons=true">
 <img align=center alt=stat width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednazirmusah&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats"><br>
 
